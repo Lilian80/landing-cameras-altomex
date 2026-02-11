@@ -97,7 +97,7 @@ Veja `.env.example` para todas as variáveis necessárias.
 ## 📱 Contato
 
 **Vendmaxx Tecnologia**
-WhatsApp: +55 (11) 9999-9999
+WhatsApp: +55 (11) 94564 2113
 São Paulo e região
 
 ---
