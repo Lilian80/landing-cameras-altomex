@@ -1,8 +1,8 @@
-# Landing Page Câmeras Altomex
+# Landing Page Câmeras 
 
 ## 🎯 Objetivo
 
-Landing page de alta conversão para câmeras Wi-Fi Altomex, otimizada para vendas via WhatsApp.
+Landing page de alta conversão para câmeras Wi-Fi , otimizada para vendas via WhatsApp.
 
 ## 📊 Tracking Implementado
 
@@ -76,7 +76,7 @@ Landing page de alta conversão para câmeras Wi-Fi Altomex, otimizada para vend
 
 ```bash
 # Clonar repositório
-git clone https://github.com/Lilian80/landing-cameras-altomex.git
+git clone https://github.com/Lilian80/landing-cameras.git
 
 # Instalar dependências
 cd landing-cameras-altomex
